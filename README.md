@@ -37,6 +37,7 @@ Dataset includes user activity over multiple months.
 ## 📁 Files
 - `retention_analysis.ipynb` — full analysis
 - PDF report with results
+- `sql_cohort_analysis_logic.pdf` — SQL queries and data preparation
 
 ---
 
