@@ -44,3 +44,8 @@ Dataset includes user activity over multiple months.
 ## ✅ Conclusion
 Cohort analysis helps identify user behavior patterns and can guide product improvements and retention strategies.# customer-retention-analysis
 Customer retention cohort analysis using SQL/Python
+
+## 📊 Data Source
+
+Google Sheets cohort analysis:
+[View Google Sheets] https://docs.google.com/spreadsheets/d/1v_lrWKlvTMOLTcv7DvsswOLNlEVa8RrqhSnprq7SV_A/edit?usp=sharing
